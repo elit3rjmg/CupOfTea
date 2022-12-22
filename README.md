@@ -6,7 +6,7 @@ Enjoy
 Second release. Re-coded, now smaller and less complex code and more variety of drinks
 
 # v1.1
-First patch. New iterations, smaller and bug fuxes.
+First patch. New iterations, smaller and bug fixes.
 
 # v1.0
 Initial release. (Edit: now abandoned and a clunky mess of code)
