@@ -1,5 +1,5 @@
-# # Cup of tea Version 2
-# # Author: RJ
+#  Cup of tea Version 2
+#  Author: RJ
 
 recipeValues = {
     'water' : 1,
