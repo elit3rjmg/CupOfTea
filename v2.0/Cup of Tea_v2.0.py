@@ -32,6 +32,7 @@ cupValue = 0 #not used
 count = 0
 
 while len(recipes) > 0:
+    
     add = input('add: ').lower()
     if add in recipeValues:
         cup.append(add)
@@ -42,6 +43,7 @@ while len(recipes) > 0:
             total = cupValue
             print('Your cup consists of', cup)
             break
+
         elif ask == 'y':
             continue
             
