@@ -2,11 +2,13 @@
  Algorithm for script making tea
 Enjoy
 
-# v2.0
-Second release. Re-coded, now smaller and less complex code and more variety of drinks
+<ins>v2.0:</ins>
+- Re-coded, now smaller and less complex code.
+- More variety of drinks
 
-# v1.1
-First patch. New iterations, smaller and bug fixes.
+<ins>v1.1:</ins>
+- First patch. 
+- New iterations, smaller and bug fixes.
 
-# v1.0
+<ins>v1.0:</ins>
 Initial release. (Edit: now abandoned and a clunky mess of code)
