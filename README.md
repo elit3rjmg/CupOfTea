@@ -11,4 +11,4 @@ Enjoy
 - New iterations, smaller and bug fixes.
 
 <ins>v1.0:</ins>
-Initial release. (Edit: now abandoned and a clunky mess of code)
+- Initial release. (Edit: now abandoned and a clunky mess of code)
